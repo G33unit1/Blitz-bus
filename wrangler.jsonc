@@ -1,0 +1,7 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "bus255-tracker",
+  "main": "worker.js",
+  "compatibility_date": "2026-10-25",
+  "workers_dev": true
+}
